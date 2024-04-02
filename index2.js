@@ -18,4 +18,4 @@ return arr;
 
 
 
-console.log(generateArray(-9,9));
+console.log(generateArray(-7,7));
